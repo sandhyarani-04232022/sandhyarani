@@ -1,4 +1,4 @@
-Hi 👋 My name is Sandhyarani
+<h1>Hi 👋 My name is Sandhyarani</h1>
 A Passionate Web Developer From India
 
 I am a WordPress and Front-end web Developer and skilled at Web Development(HTML, CSS, JavaScript) and Database Language(My SQL). I actively seek a challenging role in the technology industry to fuel continuous learning and professional growth. My strong passion for innovation make me a valuable asset for any dynamic team I am part of. I recently completed Internship on Fullstack front-end web development. The technolocgies i have used in Internship are HTML, CSS, PHP, BPPTSTRAP, JAVASCRIPT, MYSQL, REACTJS, MONGODB, EXPRESSJS.
