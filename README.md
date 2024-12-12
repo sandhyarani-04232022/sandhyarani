@@ -14,12 +14,12 @@ I am a WordPress and Front-end web Developer and skilled at Web Development(HTML
 👉 ExpressJS
 
 <h4>I'm looking to collaborate on...</h4>
-👍 Web Development Projects (HTML, CSS, JavaScript)
-Frontend Projects (React.js, Next.js)
+🤝 Web Development Projects (HTML, CSS, JavaScript)
+🤝 Frontend Projects (React.js, Next.js)
 
 <h4>I'm looking for help with...</h4>
-Company Projects
-Freelancing Projects
+👉 Company Projects
+👉 Freelancing Projects
 
 <h4>Ask me about...</h4>
 Tech: PHP, HTML,CSS, JS,Web Dev, Frontend
