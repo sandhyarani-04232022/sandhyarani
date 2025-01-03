@@ -22,7 +22,7 @@ I am a WordPress and Front-end web Developer and skilled at Web Development(HTML
 👉 Freelancing Projects
 
 <h4>Ask me about...</h4>
-Tech: PHP, HTML,CSS, JS,Web Dev, Frontend
+Tech: PHP, HTML,CSS, JS,Web Dev, jQuery, Ajax, Mysql, GIT, Frontend
 
 <h4>How to reach me</h4>
 📩 : sandhyaranijangam@gmail.com
